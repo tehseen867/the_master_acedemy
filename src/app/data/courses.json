@@ -1,0 +1,244 @@
+{
+    "courses":[
+        
+        {
+        "id":1,
+        "tital":"Front-End Development",
+        "description":"Learn to create visually appealing and interactive websites using HTML, CSS, JavaScript, and frameworks like React and Angular.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/109371/pexels-photo-109371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "moreInfo":""
+    },
+        
+        {
+        "id":2,
+        "tital":"Back-End Development",
+        "description":" Dive into server-side programming with databases, APIs, and technologies like Node.js, Python, Ruby, and PHP to build robust web applications.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    },
+        
+        {
+        "id":3,
+        "tital":"Full-Stack Development",
+        "description":"Master both front-end and back-end technologies to build complete web solutions from scratch using tools like React, Node.js, and databases like MongoDB.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":true,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "moreInfo":"https://en.wikipedia.org/wiki/Web_development"
+    },
+        
+        {
+        "id":4,
+        "tital":"Mobile App Development",
+        "description":"Explore the world of mobile development using platforms like Android (Kotlin), iOS (Swift), and cross-platform frameworks like Flutter and React Native.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":true,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/50614/pexels-photo-50614.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "moreInfo":"https://en.wikipedia.org/wiki/Mobile_app_development"
+    },
+        
+        {
+        "id":5,
+        "tital":"UX/UI Design",
+        "description":"Create intuitive and user-friendly designs for websites and apps using tools like Adobe XD, Figma, and Sketch, focusing on user experience and interface design.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":true,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/3584994/pexels-photo-3584994.jpeg",
+        "moreInfo":"https://en.wikipedia.org/wiki/User_experience_design"
+    },
+        
+        {
+        "id":6,
+        "tital":"Software Development",
+        "description":"Learn to develop software applications using programming languages like Java, Python, and C++, focusing on algorithms, and system design.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":false,
+        "image":"https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    },
+        
+        {
+        "id":7,
+        "tital":"Game Development",
+        "description":"Step into game creation with engines like Unity and Unreal Engine, and learn game design principles, 3D modeling, and interactive programming.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":false,
+        "image":"https://images.pexels.com/photos/4293307/pexels-photo-4293307.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "moreInfo":""
+    },
+        
+        {
+        "id":8,
+        "tital":"DevOps Engineering",
+        "description":"Gain expertise in automating and managing software deployments with tools like Docker, Kubernetes, Jenkins, and cloud platforms like AWS.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/4974914/pexels-photo-4974914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    },
+        
+        {
+        "id":9,
+        "tital":"Data Science",
+        "description":"Analyze large datasets and extract meaningful insights using Python, R, and machine learning libraries like TensorFlow and Pandas.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":false,
+        "image":"https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    },
+        
+        {
+        "id":10,
+        "tital":"Machine Learning & AI Development",
+        "description":"Understand the foundations of AI by building machine learning models, neural networks, and AI-driven applications using Python and TensorFlow.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":true,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "moreInfo":"https://en.wikipedia.org/wiki/Machine_learning"
+    },
+        
+        {
+        "id":11,
+        "tital":"Cloud Computing",
+        "description":"Explore cloud platforms like AWS, Azure, and Google Cloud to learn cloud architecture, server management, and scalable app deployment.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    },
+        
+        {
+        "id":12,
+        "tital":"Cybersecurity",
+        "description":" Learn how to protect networks and data from breaches by mastering cryptography, ethical hacking, and security protocols like SSL.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":false,
+        "image":"https://images.pexels.com/photos/5935791/pexels-photo-5935791.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    },
+        
+        {
+        "id":13,
+        "tital":"Database Management",
+        "description":"Manage, store, and query data effectively using relational and non-relational databases like MySQL, PostgreSQL, and MongoDB.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":false,
+        "image":"https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    },
+        
+        {
+        "id":14,
+        "tital":"Blockchain Development",
+        "description":"Dive into decentralized applications and smart contracts, learning blockchain technologies like Ethereum, Solidity, and Hyperledger.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":false,
+        "image":"https://images.pexels.com/photos/7567536/pexels-photo-7567536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    },
+        
+        {
+        "id":15,
+        "tital":"Digital Marketing",
+        "description":" Develop skills in SEO, SEM, social media marketing, and Google Analytics to boost online presence and drive website traffic.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":true,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/6483621/pexels-photo-6483621.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "moreInfo":"https://en.wikipedia.org/wiki/Digital_marketing"
+    },
+        
+        {
+        "id":16,
+        "tital":"SEO",
+        "description":"Master techniques to optimize websites for search engines, improve rankings, and increase organic traffic using tools like Google Search Console.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":true,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "moreInfo":"https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+        
+        {
+        "id":17,
+        "tital":"E-commerce Development",
+        "description":"Learn how to build and manage online stores with platforms like Shopify, integrating payment systems and inventory management.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":false,
+        "image":"https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "moreInfo":""
+    },
+        
+        {
+        "id":18,
+        "tital":"Internet of Things (IoT) Development",
+        "description":"Connect physical devices to the internet using sensors, microcontrollers, and platforms like Arduino and Raspberry Pi.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":false,
+        "image":"https://plus.unsplash.com/premium_photo-1688678097510-38711f21668b?q=80&w=1797&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "moreInfo":""
+    },
+        
+        {
+        "id":19,
+        "tital":"Augmented Reality Development",
+        "description":"Create immersive AR experiences for mobile apps and games using tools like Unity and ARKit, blending the virtual world with the real.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":true,
+        "image":"https://images.pexels.com/photos/9803058/pexels-photo-9803058.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    },
+        
+        {
+        "id":20,
+        "tital":"Virtual Reality (VR) Development",
+        "description":"Build virtual environments and interactive experiences with VR headsets and engines like Unity, focusing on 3D modeling and simulation.",
+        "price":"$99.00",
+        "instructor":"Sir hamzah",
+        "isFeatured":false,
+        "isAvailible":false,
+        "image":"https://images.pexels.com/photos/3183143/pexels-photo-3183143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "moreInfo":""
+    }
+        
+        ]}
